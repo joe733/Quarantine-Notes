@@ -5,12 +5,14 @@ College notes written during the lock-down due to COVID-19.
 The complete study material can be found @ the drive link in the description section of this repository.
 
 Current directory structure:
-```dart
+```s
 .
 ├── CD
-│   └── CD Assignment 2.pdf
+│   └── Module 5
+│       └── CD Assignment 2.pdf
 ├── CN
-│   └── Coming Soon.md
+│   └── Module 5
+│       └── CN Assignment 2.pdf
 ├── DAA
 │   └── Coming Soon.md
 ├── LICENSE
@@ -22,8 +24,9 @@ Current directory structure:
 └── SPM
     └── Coming Soon.md
 
-6 directories, 8 files
-
+8 directories, 8 files
 ```
 
-> Disclaimer: Use @ your own understanding. These include notes and assignment not in any order.
+> Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any order. <br>
+
+> Purpose is to improve my `git` skills and get my hands dirty on `GitHub Actions`, while I create and manage such repositories.
