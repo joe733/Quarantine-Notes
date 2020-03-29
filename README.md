@@ -14,7 +14,7 @@ Current directory structure:
 │   └── Module 5
 │       └── CN Assignment 2.pdf
 ├── DAA
-│   └── Coming Soon.md
+│   └── DAA Assignment 2.pdf
 ├── LICENSE
 ├── MC
 │   └── Coming Soon.md
@@ -27,6 +27,6 @@ Current directory structure:
 8 directories, 8 files
 ```
 
-> Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any order. <br>
+> Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any order.
 
 > Purpose is to improve my `git` skills and get my hands dirty on `GitHub Actions`, while I create and manage such repositories.
