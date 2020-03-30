@@ -1,18 +1,19 @@
 # Quarantine-Notes
 
-College notes written during the lock-down due to COVID-19.
+Colleg notes written during the lock-down due to COVID-19.
 
 The complete study material can be found @ the drive link in the description section of this repository.
 
 Current directory structure:
-```s
+```python 
 .
 ├── CD
 │   └── Module 5
 │       └── CD Assignment 2.pdf
 ├── CN
 │   └── Module 5
-│       └── CN Assignment 2.pdf
+│       ├── CN Assignment 2.pdf
+│       └── CN Tutorial 6.pdf
 ├── DAA
 │   └── DAA Assignment 2.pdf
 ├── LICENSE
@@ -24,7 +25,7 @@ Current directory structure:
 └── SPM
     └── Coming Soon.md
 
-8 directories, 8 files
+8 directories, 9 files
 ```
 
 > Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any order.
