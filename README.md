@@ -20,7 +20,7 @@ Current directory structure:
 ├── MC
 │   └── Coming Soon.md
 ├── POM
-│   └── Coming Soon.md
+│   └── PoM Assignment 2.pdf
 ├── README.md
 └── SPM
     └── Coming Soon.md
@@ -28,6 +28,6 @@ Current directory structure:
 8 directories, 9 files
 ```
 
-> Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any order.
+> Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any particular order (I'll try my best to bring order but still...).
 
 > Purpose is to improve my `git` skills and get my hands dirty on `GitHub Actions`, while I create and manage such repositories.
