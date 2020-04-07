@@ -5,14 +5,15 @@ Colleg notes written during the lock-down due to COVID-19.
 The complete study material can be found @ the drive link in the description section of this repository.
 
 Current directory structure:
-```java
+```c++
 .
 ├── CD
 │   ├── Module 5
 │   │   └── CD Assignment 2.pdf
 │   └── Module 6
 │       ├── Part 1 Introduction.pdf
-│       └── Part 2a Principal Sources of Optimization.pdf
+│       ├── Part 2a Principal Sources of Optimization.pdf
+│       └── Part 2b Optimization of Basic Blocks.pdf
 ├── CN
 │   └── Module 5
 │       ├── CN Assignment 2.pdf
@@ -29,7 +30,7 @@ Current directory structure:
 └── SPM
     └── Coming Soon.md
 
-9 directories, 12 files
+9 directories, 13 files
 ```
 
 > Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any particular order (I'll try my best to bring order but still...).
