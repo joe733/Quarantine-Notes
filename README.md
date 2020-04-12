@@ -5,32 +5,36 @@ Colleg notes written during the lock-down due to COVID-19.
 The complete study material can be found @ the drive link in the description section of this repository.
 
 Current directory structure:
-```c++
+```dart
 .
 ├── CD
+│   ├── CD QP Suggestion.pdf
 │   ├── Module 5
 │   │   └── CD Assignment 2.pdf
 │   └── Module 6
+│       ├── CN Tutorial 7.pdf
 │       ├── Part 1 Introduction.pdf
-│       ├── Part 2a Principal Sources of Optimization.pdf
-│       └── Part 2b Optimization of Basic Blocks.pdf
+│       ├── Part 2 Code Optimization.pdf
+│       └── Part 3 Code Optimization.pdf
 ├── CN
 │   └── Module 5
 │       ├── CN Assignment 2.pdf
 │       ├── CN Tutorial 6.pdf
 │       └── CN Tutorial 7.pdf
 ├── DAA
-│   └── DAA Assignment 2.pdf
+│   ├── DAA Assignment 2.pdf
+│   └── DAA Tutorial 6.pdf
 ├── LICENSE
 ├── MC
-│   └── Coming Soon.md
+│   ├── MC Test 1.pdf
+│   └── MC Test 2.pdf
 ├── POM
 │   └── PoM Assignment 2.pdf
 ├── README.md
 └── SPM
-    └── Coming Soon.md
+    └── SPM Tutorial.pdf
 
-9 directories, 13 files
+9 directories, 17 files
 ```
 
 > Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any particular order (I'll try my best to bring order but still...).
