@@ -17,10 +17,12 @@ Current directory structure:
 │       ├── Part 2 Code Optimization.pdf
 │       └── Part 3 Code Optimization.pdf
 ├── CN
-│   └── Module 5
-│       ├── CN Assignment 2.pdf
-│       ├── CN Tutorial 6.pdf
-│       └── CN Tutorial 7.pdf
+│   ├── Module 5
+│   │   ├── CN Assignment 2.pdf
+│   │   ├── CN Tutorial 6.pdf
+│   │   └── CN Tutorial 7.pdf
+│   └── Module 6
+│       └── CN Tutorial 8.pdf
 ├── DAA
 │   ├── DAA Assignment 2.pdf
 │   └── DAA Tutorial 6.pdf
@@ -34,7 +36,6 @@ Current directory structure:
 └── SPM
     └── SPM Tutorial.pdf
 
-9 directories, 17 files
 ```
 
 > Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any particular order (I'll try my best to bring order but still...).
