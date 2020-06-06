@@ -6,6 +6,8 @@ The complete study material can be found @ the drive link in the description sec
 
 Current directory structure:
 ```python
+joe in Quarantine-Notes @ eOS on  master [+] via 🅒 base 
+⮚.⮚.⮚ tree
 .
 ├── CD
 │   ├── CD QP Suggestion.pdf
@@ -60,7 +62,8 @@ Current directory structure:
 │   ├── Revision
 │   │   ├── MC Revision Test 3.pdf
 │   │   ├── MC Revision Test 4.pdf
-│   │   └── MC Revision Test 5.pdf
+│   │   ├── MC Revision Test 5.pdf
+│   │   └── MC Revision Test 6.pdf
 │   └── ST2
 │       ├── IES17CS016 MC Answer Sheet.pdf
 │       └── MC 2nd Internal QP.pdf
@@ -85,7 +88,7 @@ Current directory structure:
         ├── IES17CS016 SPM Answer Sheet.pdf
         └── SPM 2nd Internal QP.pdf
 
-25 directories, 52 files
+25 directories, 53 files
 ```
 
 > Disclaimer: Use @ your own understanding. These include notes and assignment which are not in any particular order (I'll try my best to bring order but still...).
